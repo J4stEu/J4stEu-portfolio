@@ -1,6 +1,5 @@
 # portfolio2018
-My portfolio project of 2018.
-In 2018 I was inspired to do my portfolio page. It is a completed project, but I don't use it.
+My old protfolio. It is a completed project, but there are some issues with icons. I don't use it now, but I still love it.
 
 Stack:
 - HTML; 
