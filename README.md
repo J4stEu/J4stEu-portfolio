@@ -7,7 +7,7 @@ Stack:
 - CSS(Sass);
 - JS.
 
-Src now: https://frays18.github.io
+Src now: https://j4steu.github.io/J4stEu-portfolio/
 
 Demo:
 ![About - 1](https://github.com/J4stEu/portfolio2018/blob/master/projectDemo/1.jpg?raw=true)
