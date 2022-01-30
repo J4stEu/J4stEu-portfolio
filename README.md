@@ -1,5 +1,5 @@
 # portfolio2018
-My old protfolio project, there are some issues (with icons as example). I don't use it now, but I still love it.
+My old protfolio project.
 
 Stack:
 - HTML; 
