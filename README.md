@@ -1,4 +1,4 @@
-# portfolio2018
+# J4stEu-portfolio
 My old portfolio project.
 
 Stack:
