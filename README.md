@@ -1,5 +1,5 @@
 # portfolio2018
-My old protfolio project.
+My old homepage project.
 
 Stack:
 - HTML; 
